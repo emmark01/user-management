@@ -14,6 +14,7 @@ React admin app for a workspace user directory. Browse people, create and edit a
 npm install
 npm run dev
 npm run build
+npm test
 ```
 
 Open the local Vite URL, then use Dashboard, Users, Roles, and Settings. Sample data lives in memory and resets on refresh.
